@@ -1,0 +1,1 @@
+This is a culmination of all Lab assignments in CIS3296 for Dominic Letarte, Section 2.
